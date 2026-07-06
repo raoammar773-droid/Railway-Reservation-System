@@ -1,0 +1,14 @@
+PNR: 6812 | Name: rao ammar | Train: Karachi Express
+PNR: 3749 | Name: rao talha | Train: Lahore Super Fast
+7880,rao ammar,Karachi Express
+3302,ali,Karachi Express
+6287,awa,Karachi Express
+Booked on: Mon Jul 06 14:12:57 2026 | PNR: 9127 | Name: rao | Train: Karachi Express
+9777,ah,Karachi Express
+2015,rao ammar,Karachi Express
+3145,rao ammar,Karachi Express,4999
+3752,ro,Islamabad Intercity,1
+1604,a,Islamabad Intercity,2
+4693,rao ammar,Lahore Super Fast,1
+4846,rao ammar,Karachi Express,1
+5836,h,Karachi Express,1
